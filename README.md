@@ -4,7 +4,7 @@ Interactive application dependency graph built with ReactFlow, Zustand, TanStack
 
 ## Live Demo
 
-Add your Vercel URL here after deployment.
+https://app-graph-builder-seven.vercel.app/
 
 ## Features
 
